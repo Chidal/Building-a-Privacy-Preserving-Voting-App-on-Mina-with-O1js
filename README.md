@@ -195,4 +195,4 @@ We have successfully built a privacy-preserving voting system using Mina Protoco
 This is the future of secure, decentralized democracy! 🎉
 ```
 
-This README is structured to guide users through the setup, implementation, and enhancement of the zkApp, as well as explaining the rationale behind the privacy and security choices made with Mina and zk-SNARKs.
+This README is designed to guide users through the setup, implementation, and enhancement of the zkApp, as well as explaining the rationale behind the privacy and security choices made with Mina and zk-SNARKs.
